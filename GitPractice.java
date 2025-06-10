@@ -8,6 +8,7 @@ public class GitPractice{
         System.out.println("松木が作業");
         System.out.println("杉浦も追加");
         System.out.println("鶴田も追加 pull requestをだします");
+        System.out.println("hello");
 
     }
 }
