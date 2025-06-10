@@ -7,5 +7,7 @@ public class GitPractice{
         System.out.println("再度作業");
         System.out.println("松木が作業");
         System.out.println("tsuruda");
+        System.out.println("zkyyyyyy");
+
     }
 }
